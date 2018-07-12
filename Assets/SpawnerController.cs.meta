@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 6a60a68717fb46340a177b8ac541575c
+timeCreated: 1501475638
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Bot: {instanceID: 0}
+  - Middle: {instanceID: 0}
+  - Top: {instanceID: 0}
+  - Target: {instanceID: 0}
+  - Alienz: {instanceID: 0}
+  - kostyl: {fileID: 1319869164618014, guid: 1e76a36ff0bae24499e2c4f52199d99f, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
